@@ -1,0 +1,1 @@
+# iki_bellek_adresi-_arasindaki_sayilari_toplama
